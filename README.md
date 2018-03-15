@@ -1,2 +1,8 @@
 # 6x1-to-PDF-Converter
 Command line python script to convert 6x1 slides pdf into normal pdf.
+
+Install PyPDF2 to run this script.
+
+Usage,
+
+py PDF_convert.py <filename.pdf>
