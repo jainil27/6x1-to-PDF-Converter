@@ -6,3 +6,5 @@ Install PyPDF2 to run this script.
 Usage,
 
 py PDF_convert.py <filename.pdf>
+
+The 2 pdf files are an example of what the script does.
